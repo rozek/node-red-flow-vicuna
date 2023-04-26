@@ -2,7 +2,7 @@
 
 Node-RED Flow (and web page example) for the Vicuna AI model
 
-This repository contains a function node for [Node-RED](https://nodered.org/) which can be used to run the [Vicuna model]() using [llama.cpp](https://github.com/ggerganov/llama.cpp) within a Node-RED flow. **Inference is done on the CPU** (without requiring any special harware) and still completes within a few seconds on a reasonably powerful computer.
+This repository contains a function node for [Node-RED](https://nodered.org/) which can be used to run the [Vicuna model](https://vicuna.lmsys.org/) using [llama.cpp](https://github.com/ggerganov/llama.cpp) within a Node-RED flow. **Inference is done on the CPU** (without requiring any special harware) and still completes within a few seconds on a reasonably powerful computer.
 
 ![Vicuna HTTP Flow](./Vicuna-HTTP-Flow.png)
 
