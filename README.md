@@ -8,7 +8,7 @@ This repository contains a function node for [Node-RED](https://nodered.org/) wh
 
 Having the actual inference as a self-contained function node gives you the possibility to create your own user interface or even use it as part of an autonomous agent.
 
-> Nota bene: these flows do not contain the actual model. You will have to download your own copy directly from []().
+> Nota bene: these flows do not contain the actual model. You will have to download your own copy directly from [Huggingface](https://huggingface.co/eachadea/ggml-vicuna-7b-1.1) (use file "ggml-vicuna-7b-1.1-q4_1.bin").
 
 If you like, you may also check out similar nodes and flows for other AI models as there are
 
