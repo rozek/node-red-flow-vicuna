@@ -32,11 +32,9 @@ Afterwards, rename `main` to `llama` and copy it into the subfolder `ai` you cre
 
 ### Preparing the Model ###
 
-Once you got the actual Vicuna model, ...
+Once you got the actual Vicuna model file `ggml-vicuna-7b-1.1-q4_1.bin`, move (or copy) it into the same subfolder `ai` where you already placed the `llama` executable.
 
-> Nota bene: right now, the function node supports the 7B model only - but this may easily be changed in the function source
-
-Afterwards, rename the file `ggml-model-q4_0.bin` to `ggml-vicuna-7b-1.1-q4_1.bin` and move (or copy) it into the same subfolder `ai` where you already placed the `llama` executable.
+> Nota bene: right now, the function node supports the given model file only - but this may easily be changed in the function source
 
 ### Importing the Function Node ###
 
